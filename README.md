@@ -20,6 +20,11 @@ everwind-alchemy/
 │   ├── item2.png
 │   └── ...
 │
+├── lang/             # Translation files
+│   ├── en.json       # English
+│   ├── ru.json       # Russian
+│   └── ...
+│
 └── README.md
 ```
 
