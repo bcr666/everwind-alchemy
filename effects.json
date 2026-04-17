@@ -1,27 +1,152 @@
 [
-	{ "name": "Diligence", "image": "/images/diligence.png" },
-	{ "name": "Electricity Resistance", "image": "/images/electricity-resistance.png" },
-	{ "name": "Fall Absorber", "image": "/images/fall-absorber.png" },
-	{ "name": "Fire Resistance", "image": "/images/fire-resistance.png" },
-	{ "name": "Harvest", "image": "/images/harvest.png" },
-	{ "name": "Healing", "image": "/images/healing.png" },
-	{ "name": "Ice Resistance", "image": "/images/ice-resistance.png" },
-	{ "name": "Invisibility", "image": "/images/invisibility.png" },
-	{ "name": "Jump Booster", "image": "/images/jump-booster.png" },
-	{ "name": "Last Chance", "image": "/images/last-chance.png" },
-	{ "name": "Lethal Precision", "image": "/images/lethal-precision.png" },
-	{ "name": "Levitation", "image": "/images/levitation.png" },
-	{ "name": "Light", "image": "/images/light.png" },
-	{ "name": "Lockpicking", "image": "/images/lockpicking.png" },
-	{ "name": "Loot Luck", "image": "/images/loot-luck.png" },
-	{ "name": "Perception", "image": "/images/perception.png" },
-	{ "name": "Poison Resistance", "image": "/images/poison-resistance.png" },
-	{ "name": "Purification", "image": "/images/purification.png" },
-	{ "name": "Sharp Instincts", "image": "/images/sharp-instincts.png" },
-	{ "name": "Soft Hand", "image": "/images/soft-hand.png" },
-	{ "name": "Stone Skin", "image": "/images/stone-skin.png" },
-	{ "name": "Strength", "image": "/images/strength.png" },
-	{ "name": "Swiftness", "image": "/images/swiftness.png" },
-	{ "name": "Tireless", "image": "/images/tireless.png" },
-	{ "name": "Windborne", "image": "/images/windborne.png" }
+	{
+		"id": "diligence",
+		"name": "Diligence",
+		"nameKey": "effect.diligence",
+		"image": "/images/diligence.png"
+	},
+	{
+		"id": "electricity-resistance",
+		"name": "Electricity Resistance",
+		"nameKey": "effect.electricity-resistance",
+		"image": "/images/electricity-resistance.png"
+	},
+	{
+		"id": "fall-absorber",
+		"name": "Fall Absorber",
+		"nameKey": "effect.fall-absorber",
+		"image": "/images/fall-absorber.png"
+	},
+	{
+		"id": "fire-resistance",
+		"name": "Fire Resistance",
+		"nameKey": "effect.fire-resistance",
+		"image": "/images/fire-resistance.png"
+	},
+	{
+		"id": "harvest",
+		"name": "Harvest",
+		"nameKey": "effect.harvest",
+		"image": "/images/harvest.png"
+	},
+	{
+		"id": "healing",
+		"name": "Healing",
+		"nameKey": "effect.healing",
+		"image": "/images/healing.png"
+	},
+	{
+		"id": "ice-resistance",
+		"name": "Ice Resistance",
+		"nameKey": "effect.ice-resistance",
+		"image": "/images/ice-resistance.png"
+	},
+	{
+		"id": "invisibility",
+		"name": "Invisibility",
+		"nameKey": "effect.invisibility",
+		"image": "/images/invisibility.png"
+	},
+	{
+		"id": "jump-booster",
+		"name": "Jump Booster",
+		"nameKey": "effect.jump-booster",
+		"image": "/images/jump-booster.png"
+	},
+	{
+		"id": "last-chance",
+		"name": "Last Chance",
+		"nameKey": "effect.last-chance",
+		"image": "/images/last-chance.png"
+	},
+	{
+		"id": "lethal-precision",
+		"name": "Lethal Precision",
+		"nameKey": "effect.lethal-precision",
+		"image": "/images/lethal-precision.png"
+	},
+	{
+		"id": "levitation",
+		"name": "Levitation",
+		"nameKey": "effect.levitation",
+		"image": "/images/levitation.png"
+	},
+	{
+		"id": "light",
+		"name": "Light",
+		"nameKey": "effect.light",
+		"image": "/images/light.png"
+	},
+	{
+		"id": "lockpicking",
+		"name": "Lockpicking",
+		"nameKey": "effect.lockpicking",
+		"image": "/images/lockpicking.png"
+	},
+	{
+		"id": "loot-luck",
+		"name": "Loot Luck",
+		"nameKey": "effect.loot-luck",
+		"image": "/images/loot-luck.png"
+	},
+	{
+		"id": "perception",
+		"name": "Perception",
+		"nameKey": "effect.perception",
+		"image": "/images/perception.png"
+	},
+	{
+		"id": "poison-resistance",
+		"name": "Poison Resistance",
+		"nameKey": "effect.poison-resistance",
+		"image": "/images/poison-resistance.png"
+	},
+	{
+		"id": "purification",
+		"name": "Purification",
+		"nameKey": "effect.purification",
+		"image": "/images/purification.png"
+	},
+	{
+		"id": "sharp-instincts",
+		"name": "Sharp Instincts",
+		"nameKey": "effect.sharp-instincts",
+		"image": "/images/sharp-instincts.png"
+	},
+	{
+		"id": "soft-hand",
+		"name": "Soft Hand",
+		"nameKey": "effect.soft-hand",
+		"image": "/images/soft-hand.png"
+	},
+	{
+		"id": "stone-skin",
+		"name": "Stone Skin",
+		"nameKey": "effect.stone-skin",
+		"image": "/images/stone-skin.png"
+	},
+	{
+		"id": "strength",
+		"name": "Strength",
+		"nameKey": "effect.strength",
+		"image": "/images/strength.png"
+	},
+	{
+		"id": "swiftness",
+		"name": "Swiftness",
+		"nameKey": "effect.swiftness",
+		"image": "/images/swiftness.png"
+	},
+	{
+		"id": "tireless",
+		"name": "Tireless",
+		"nameKey": "effect.tireless",
+		"image": "/images/tireless.png"
+	},
+	{
+		"id": "windborn",
+		"name": "Windborn",
+		"nameKey": "effect.windborn",
+		"image": "/images/windborn.png"
+	}
 ]

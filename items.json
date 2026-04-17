@@ -1,783 +1,1086 @@
 [
   {
+    "id": "abyssal-grimcore",
     "name": "Abyssal Grimcore",
+    "nameKey": "item.abyssal-grimcore",
     "specialEffect": "",
     "alchemyEffects": [
-      "Stone Skin",
-      "Strength",
-      "Last Chance"
+      "stone-skin",
+      "strength",
+      "last-chance"
     ],
     "image": "/images/abyssal-grimcore.png"
   },
   {
+    "id": "ackee-fruit",
+    "name": "Ackee-fruit",
+    "nameKey": "item.ackee-fruit",
+    "specialEffect": "Poison - Deals 1 Poison Damage for 30s.",
+	"specialEffectKey": "item.ackee-fruit.specialEffect",
+    "alchemyEffects": [
+      "sharp-instincts",
+      "poison-resistance"
+    ],
+    "image": "/images/ackee-fruit.png"
+  },
+  {
+    "id": "agave",
     "name": "Agave",
+    "nameKey": "item.agave",
     "specialEffect": "",
     "alchemyEffects": [
-      "Purification"
+      "purification"
     ],
     "image": "/images/agave.png"
   },
   {
+    "id": "aloes",
     "name": "Aloes",
+    "nameKey": "item.aloes",
     "specialEffect": "",
     "alchemyEffects": [
-      "Soft Hand"
+      "soft-hand"
     ],
     "image": "/images/aloes.png"
   },
   {
+    "id": "amber",
     "name": "Amber",
+    "nameKey": "item.amber",
     "specialEffect": "",
     "alchemyEffects": [
-      "Healing",
-      "Strength"
+      "healing",
+      "strength"
     ],
     "image": "/images/amber.png"
   },
   {
+    "id": "aster",
     "name": "Aster",
+    "nameKey": "item.aster",
     "specialEffect": "",
     "alchemyEffects": [
-      "Soft Hand",
-      "Loot Luck",
-      "Levitation"
+      "soft-hand",
+      "loot-luck",
+      "levitation"
     ],
     "image": "/images/aster.png"
   },
   {
+    "id": "auranite",
     "name": "Auranite",
+    "nameKey": "item.auranite",
     "specialEffect": "",
     "alchemyEffects": [
-      "Electricity Resistance"
+      "electricity-resistance"
     ],
     "image": "/images/auranite.png"
   },
   {
+    "id": "bamboo",
     "name": "Bamboo",
+    "nameKey": "item.bamboo",
     "specialEffect": "",
     "alchemyEffects": [
-      "Invisibility"
+      "invisibility"
     ],
     "image": "/images/bamboo.png"
   },
   {
-    "name": "Bell Flower",
+    "id": "bassplant",
+    "name": "Bassplant",
+    "nameKey": "item.bassplant",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lockpicking",
-      "Loot Luck"
+      "poison-resistance"
+	  ,"sharp-instincts"
+    ],
+    "image": "/images/bassplant.png"
+  },
+  {
+    "id": "bell-flower",
+    "name": "Bell Flower",
+    "nameKey": "item.bell-flower",
+    "specialEffect": "",
+    "alchemyEffects": [
+      "lockpicking",
+      "loot-luck"
     ],
     "image": "/images/bell-flower.png"
   },
   {
-    "name": "Black Dahlia",
+    "id": "bellyplant",
+    "name": "Bellyplant",
+    "nameKey": "item.bellyplant",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lethal Precision",
-      "Ice Resistance",
-      "Electricity Resistance"
+      "fall-absorber",
+      "fire-resistance"
+    ],
+    "image": "/images/bellyplant.png"
+  },
+  {
+    "id": "black-dahlia",
+    "name": "Black Dahlia",
+    "nameKey": "item.black-dahlia",
+    "specialEffect": "",
+    "alchemyEffects": [
+      "lethal-precision",
+      "ice-resistance",
+      "electricity-resistance"
     ],
     "image": "/images/black-dahlia.png"
   },
   {
+    "id": "blaze-crystal-dust",
     "name": "Blaze Crystal Dust",
+    "nameKey": "item.blaze-crystal-dust",
     "specialEffect": "",
     "alchemyEffects": [
-      "Light",
-      "Swiftness"
+      "light",
+      "swiftness"
     ],
     "image": "/images/blaze-crystal-dust.png"
   },
   {
+    "id": "blue-resin",
     "name": "Blue Resin",
+    "nameKey": "item.blue-resin",
     "specialEffect": "",
     "alchemyEffects": [
-      "Healing",
-      "Perception"
+      "healing",
+      "perception"
     ],
     "image": "/images/blue-resin.png"
   },
   {
+    "id": "blueberry",
     "name": "Blueberry",
+    "nameKey": "item.blueberry",
     "specialEffect": "Healing - Restores a total of 6 HP over 3s.",
+    "specialEffectKey": "item.blueberry.specialEffect",
     "alchemyEffects": [
-      "Swiftness",
-      "Jump Booster"
+      "swiftness",
+      "jump-booster"
     ],
     "image": "/images/blueberry.png"
   },
   {
+    "id": "bone",
     "name": "Bone",
+    "nameKey": "item.bone",
     "specialEffect": "",
     "alchemyEffects": [
-      "Jump Booster"
+      "jump-booster"
     ],
     "image": "/images/bone.png"
   },
   {
+    "id": "bone-meal",
     "name": "Bone Meal",
+    "nameKey": "item.bone-meal",
     "specialEffect": "",
     "alchemyEffects": [
-      "Loot Luck"
+      "loot-luck"
     ],
     "image": "/images/bone-meal.png"
   },
   {
+    "id": "brown-woodcap",
     "name": "Brown Woodcap",
+    "nameKey": "item.brown-woodcap",
     "specialEffect": "Healing - Restores a total of 6 HP over 3s.",
+    "specialEffectKey": "item.brown-woodcap.specialEffect",
     "alchemyEffects": [
-      "Diligence"
+      "diligence"
     ],
     "image": "/images/brown-woodcap.png"
   },
   {
+    "id": "bulb",
     "name": "Bulb",
+    "nameKey": "item.bulb",
     "specialEffect": "Stamina Regeneration - Regenerates 24 stamina over 3s.",
+    "specialEffectKey": "item.bulb.specialEffect",
     "alchemyEffects": [
-      "Tireless",
-      "Jump Booster"
+      "tireless",
+      "jump-booster"
     ],
     "image": "/images/bulb.png"
   },
   {
+    "id": "burncap",
     "name": "Burncap",
+    "nameKey": "item.burncap",
     "specialEffect": "",
     "alchemyEffects": [
-      "Strength",
-      "Sharp Instincts"
+      "strength",
+      "sharp-instincts"
     ],
     "image": "/images/burncap.png"
   },
   {
+    "id": "butterfly-wing",
     "name": "Butterfly Wing",
+    "nameKey": "item.butterfly-wing",
     "specialEffect": "",
     "alchemyEffects": [
-      "Fall Absorber",
-      "Levitation"
+      "fall-absorber",
+      "levitation"
     ],
     "image": "/images/butterfly-wing.png"
   },
   {
-    "name": "Cactus Ball",
+    "id": "buzdynee",
+    "name": "Buzdynee",
+    "nameKey": "item.buzdynee",
     "specialEffect": "",
     "alchemyEffects": [
-      "Tireless"
+      "purification"
+    ],
+    "image": "/images/buzdynee.png"
+  },
+  {
+    "id": "cactus-ball",
+    "name": "Cactus Ball",
+    "nameKey": "item.cactus-ball",
+    "specialEffect": "",
+    "alchemyEffects": [
+      "tireless"
     ],
     "image": "/images/cactus-ball.png"
   },
   {
+    "id": "cactus-fruit",
     "name": "Cactus Fruit",
+    "nameKey": "item.cactus-fruit",
     "specialEffect": "Healing - Restores a total of 6 HP over 3s.",
+    "specialEffectKey": "item.cactus-fruit.specialEffect",
     "alchemyEffects": [
-      "Tireless",
-      "Perception"
+      "tireless",
+      "perception"
     ],
     "image": "/images/cactus-fruit.png"
   },
   {
+    "id": "cactus-prickly-pear",
     "name": "Cactus Prickly Pear",
+    "nameKey": "item.cactus-prickly-pear",
     "specialEffect": "",
     "alchemyEffects": [
-      "Windborne"
+      "windborn"
     ],
     "image": "/images/cactus-prickly-pear.png"
   },
   {
+    "id": "cane",
     "name": "Cane",
+    "nameKey": "item.cane",
     "specialEffect": "",
     "alchemyEffects": [
-      "Tireless"
+      "tireless"
     ],
     "image": "/images/cane.png"
   },
   {
+    "id": "chanterelle",
     "name": "Chanterelle",
+    "nameKey": "item.chanterelle",
     "specialEffect": "Healing - Restores a total of 5 HP over 3s.",
+    "specialEffectKey": "item.chanterelle.specialEffect",
     "alchemyEffects": [
-      "Lockpicking"
+      "lockpicking"
     ],
     "image": "/images/chanterelle.png"
   },
   {
+    "id": "chili-pepper",
     "name": "Chili Pepper",
+    "nameKey": "item.chili-pepper",
     "specialEffect": "",
     "alchemyEffects": [
-      "Sharp Instincts",
-      "Fire Resistance"
+      "sharp-instincts",
+      "fire-resistance"
     ],
     "image": "/images/chili-pepper.png"
   },
   {
+    "id": "chokeberry",
     "name": "Chokeberry",
+    "nameKey": "item.chokeberry",
     "specialEffect": "",
     "alchemyEffects": [
-      "Harvest",
-      "Swiftness"
+      "harvest",
+      "swiftness"
     ],
     "image": "/images/chokeberry.png"
   },
   {
+    "id": "clams",
     "name": "Clams",
+    "nameKey": "item.clams",
     "specialEffect": "",
     "alchemyEffects": [
-      "Stone Skin",
-      "Loot Luck"
+      "stone-skin",
+      "loot-luck"
     ],
     "image": "/images/clams.png"
   },
   {
+    "id": "cobweb",
     "name": "Cobweb",
+    "nameKey": "item.cobweb",
     "specialEffect": "",
     "alchemyEffects": [
-      "Swiftness"
+      "swiftness"
     ],
     "image": "/images/cobweb.png"
   },
   {
+    "id": "coconut",
     "name": "Coconut",
+    "nameKey": "item.coconut",
     "specialEffect": "",
     "alchemyEffects": [
-      "Stone Skin"
+      "stone-skin"
     ],
     "image": "/images/coconut.png"
   },
   {
+    "id": "cone",
     "name": "Cone",
+    "nameKey": "item.cone",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lockpicking"
+      "lockpicking"
     ],
     "image": "/images/cone.png"
   },
   {
+    "id": "corn",
     "name": "Corn",
+    "nameKey": "item.corn",
     "specialEffect": "Healing - Restores a total of 6 HP over 3s.",
+    "specialEffectKey": "item.corn.specialEffect",
     "alchemyEffects": [
-      "Harvest",
-      "Loot Luck"
+      "harvest",
+      "loot-luck"
     ],
     "image": "/images/corn.png"
   },
   {
+    "id": "curlvine",
     "name": "Curlvine",
+    "nameKey": "item.curlvine",
     "specialEffect": "",
     "alchemyEffects": [
-      "Harvest",
-      "Lockpicking"
+      "harvest",
+      "lockpicking"
     ],
     "image": "/images/curlvine.png"
   },
   {
+    "id": "darkshroom",
     "name": "Darkshroom",
+    "nameKey": "item.darkshroom",
     "specialEffect": "",
     "alchemyEffects": [
-      "Poison Resistance",
-      "Perception"
+      "poison-resistance",
+      "perception"
     ],
     "image": "/images/darkshroom.png"
   },
   {
+    "id": "deserva",
     "name": "Deserva",
+    "nameKey": "item.deserva",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lockpicking"
+      "lockpicking"
     ],
     "image": "/images/deserva.png"
   },
   {
+    "id": "dragon-fruit",
     "name": "Dragon Fruit",
+    "nameKey": "item.dragon-fruit",
     "specialEffect": "",
     "alchemyEffects": [
-      "Strength",
-      "Sharp Instincts",
-      "Fire Resistance"
+      "strength",
+      "sharp-instincts",
+      "fire-resistance"
     ],
     "image": "/images/dragon-fruit.png"
   },
   {
+    "id": "echinops",
     "name": "Echinops",
+    "nameKey": "item.echinops",
     "specialEffect": "",
     "alchemyEffects": [
-      "Ice Resistance",
-      "Electricity Resistance"
+      "ice-resistance",
+      "electricity-resistance"
     ],
     "image": "/images/echinops.png"
   },
   {
+    "id": "egg",
     "name": "Egg",
+    "nameKey": "item.egg",
     "specialEffect": "",
     "alchemyEffects": [
-      "Stone Skin"
+      "stone-skin"
     ],
     "image": "/images/egg.png"
   },
   {
+    "id": "ent-heart",
     "name": "Ent Heart",
+    "nameKey": "item.ent-heart",
     "specialEffect": "",
     "alchemyEffects": [
-      "Healing",
-      "Last Chance"
+      "healing",
+      "last-chance"
     ],
     "image": "/images/ent-heart.png"
   },
   {
+    "id": "fang",
     "name": "Fang",
+    "nameKey": "item.fang",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lethal Precision"
+      "lethal-precision"
     ],
     "image": "/images/fang.png"
   },
   {
+    "id": "fat",
     "name": "Fat",
+    "nameKey": "item.fat",
     "specialEffect": "Poison - Deals 1 poison damage for 5s.",
+    "specialEffectKey": "item.fat.specialEffect",
     "alchemyEffects": [
-      "Ice Resistance"
+      "ice-resistance"
     ],
     "image": "/images/fat.png"
   },
   {
+    "id": "feather",
     "name": "Feather",
+    "nameKey": "item.feather",
     "specialEffect": "",
     "alchemyEffects": [
-      "Fall Absorber"
+      "fall-absorber"
     ],
     "image": "/images/feather.png"
   },
   {
+    "id": "fern",
     "name": "Fern",
+    "nameKey": "item.fern",
     "specialEffect": "",
     "alchemyEffects": [
-      "Levitation"
+      "levitation"
     ],
     "image": "/images/fern.png"
   },
   {
+    "id": "flame-flower",
     "name": "Flame Flower",
+    "nameKey": "item.flame-flower",
     "specialEffect": "",
     "alchemyEffects": [
-      "Fire Resistance",
-      "Light"
+      "fire-resistance",
+      "light"
     ],
     "image": "/images/flame-flower.png"
   },
   {
+    "id": "fly-agaric",
     "name": "Fly Agaric",
+    "nameKey": "item.fly-agaric",
     "specialEffect": "Poison - Deals 1 poison damage for 10s.",
+    "specialEffectKey": "item.fly-agaric.specialEffect",
     "alchemyEffects": [
-      "Harvest"
+      "harvest"
     ],
     "image": "/images/fly-agaric.png"
   },
   {
+    "id": "force-crystal-dust",
     "name": "Force Crystal Dust",
+    "nameKey": "item.force-crystal-dust",
     "specialEffect": "",
     "alchemyEffects": [
-      "Strength"
+      "strength"
     ],
     "image": "/images/force-crystal-dust.png"
   },
   {
+    "id": "fur",
     "name": "Fur",
+    "nameKey": "item.fur",
     "specialEffect": "",
     "alchemyEffects": [
-      "Tireless"
+      "tireless"
     ],
     "image": "/images/fur.png"
   },
   {
+    "id": "glimmerspike",
     "name": "Glimmerspike",
+    "nameKey": "item.glimmerspike",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lethal Precision",
-      "Electricity Resistance"
+      "lethal-precision",
+      "electricity-resistance"
     ],
     "image": "/images/glimmerspike.png"
   },
   {
+    "id": "glowing-mushroom",
     "name": "Glowing Mushroom",
+    "nameKey": "item.glowing-mushroom",
     "specialEffect": "Light - Emits light with 1 intensity for 10s.",
+    "specialEffectKey": "item.glowing-mushroom.specialEffect",
     "alchemyEffects": [
-      "Light",
-      "Fall Absorber"
+      "light",
+      "fall-absorber"
     ],
     "image": "/images/glowing-mushroom.png"
   },
   {
+    "id": "glue",
     "name": "Glue",
+    "nameKey": "item.glue",
     "specialEffect": "",
     "alchemyEffects": [
-      "Swiftness"
+      "swiftness"
     ],
     "image": "/images/glue.png"
   },
   {
+    "id": "green-bone",
     "name": "Green Bone",
+    "nameKey": "item.green-bone",
     "specialEffect": "",
     "alchemyEffects": [
-      "Healing",
-      "Jump Booster"
+      "healing",
+      "jump-booster"
     ],
     "image": "/images/green-bone.png"
   },
   {
+    "id": "green-woodcap",
     "name": "Green Woodcap",
+    "nameKey": "item.green-woodcap",
     "specialEffect": "Poison - Deals 1 poison damage for 12s.",
+    "specialEffectKey": "item.green-woodcap.specialEffect",
     "alchemyEffects": [
-      "Poison Resistance"
+      "poison-resistance"
     ],
     "image": "/images/green-woodcap.png"
   },
   {
+    "id": "grimeknot",
     "name": "Grimeknot",
+    "nameKey": "item.grimeknot",
     "specialEffect": "",
     "alchemyEffects": [
-      "Fire Resistance",
-      "Diligence"
+      "fire-resistance",
+      "diligence"
     ],
     "image": "/images/grimeknot.png"
   },
   {
+    "id": "holly",
     "name": "Holly",
+    "nameKey": "item.holly",
     "specialEffect": "",
     "alchemyEffects": [
-      "Purification"
+      "purification"
     ],
     "image": "/images/holly.png"
   },
   {
+    "id": "honey",
     "name": "Honey",
+    "nameKey": "item.honey",
     "specialEffect": "Healing - Restores a total of 20 HP over 10s.",
+    "specialEffectKey": "item.honey.specialEffect",
     "alchemyEffects": [
-      "Healing",
-      "Last Chance"
+      "healing",
+      "last-chance"
     ],
     "image": "/images/honey.png"
   },
   {
+    "id": "infernite",
     "name": "Infernite",
+    "nameKey": "item.infernite",
     "specialEffect": "",
     "alchemyEffects": [
-      "Ice Resistance"
+      "ice-resistance"
     ],
     "image": "/images/infernite.png"
   },
   {
+    "id": "jasmine",
     "name": "Jasmine",
+    "nameKey": "item.jasmine",
     "specialEffect": "",
     "alchemyEffects": [
-      "Swiftness"
+      "swiftness"
     ],
     "image": "/images/jasmine.png"
   },
   {
+    "id": "jelly-fruit",
     "name": "Jelly Fruit",
+    "nameKey": "item.jelly-fruit",
     "specialEffect": "Stamina Regeneration - Regenerates 18 stamina over 3s.",
+    "specialEffectKey": "item.jelly-fruit.specialEffect",
     "alchemyEffects": [
-      "Electricity Resistance",
-      "Fall Absorber"
+      "electricity-resistance",
+      "fall-absorber"
     ],
     "image": "/images/jelly-fruit.png"
   },
   {
+    "id": "lavender",
     "name": "Lavender",
+    "nameKey": "item.lavender",
     "specialEffect": "",
     "alchemyEffects": [
-      "Soft Hand"
+      "soft-hand"
     ],
     "image": "/images/lavender.png"
   },
   {
-    "name": "Loosestrife",
+    "id": "longish",
+    "name": "Longish",
+    "nameKey": "item.longish",
     "specialEffect": "",
     "alchemyEffects": [
-      "Harvest"
+      "levitation"
+	  , "windborn"
+	  , "perception"
+    ],
+    "image": "/images/longish.png"
+  },
+  {
+    "id": "loosestrife",
+    "name": "Loosestrife",
+    "nameKey": "item.loosestrife",
+    "specialEffect": "",
+    "alchemyEffects": [
+      "harvest"
     ],
     "image": "/images/loosestrife.png"
   },
   {
+    "id": "magic-fruit",
+    "name": "Magic Fruit",
+    "nameKey": "item.magic-fruit",
+    "specialEffect": "Stamina Regeneration - Regenerates 24 Stamina over 3s.",
+	"specialEffectKey": "item.magic-fruit.specialEffect",
+    "alchemyEffects": [
+      "electricity-resistance",
+	  "invisibility"
+    ],
+    "image": "/images/magic-fruit.png"
+  },
+  {
+    "id": "manalith",
     "name": "Manalith",
+    "nameKey": "item.manalith",
     "specialEffect": "",
     "alchemyEffects": [
-      "Ice Resistance"
+      "ice-resistance"
     ],
     "image": "/images/manalith.png"
   },
   {
+    "id": "meat",
     "name": "Meat",
+    "nameKey": "item.meat",
     "specialEffect": "Poison - Deals 1 poison damage for 5s.",
+    "specialEffectKey": "item.meat.specialEffect",
     "alchemyEffects": [
-      "Sharp Instincts"
+      "sharp-instincts"
     ],
     "image": "/images/meat.png"
   },
   {
-    "name": "Mirethorn",
+    "id": "meglum",
+    "name": "Meglum",
+    "nameKey": "item.meglum",
     "specialEffect": "",
     "alchemyEffects": [
-      "Sharp Instincts"
+      "levitation"
+    ],
+    "image": "/images/meglum.png"
+  },
+  {
+    "id": "mirethorn",
+    "name": "Mirethorn",
+    "nameKey": "item.mirethorn",
+    "specialEffect": "",
+    "alchemyEffects": [
+      "sharp-instincts"
     ],
     "image": "/images/mirethorn.png"
   },
   {
+    "id": "moonshroom",
     "name": "Moonshroom",
+    "nameKey": "item.moonshroom",
     "specialEffect": "Light - Emits light with 1 intensity for 5s.",
+    "specialEffectKey": "item.moonshroom.specialEffect",
     "alchemyEffects": [
-      "Light",
-      "Invisibility"
+      "light",
+      "invisibility"
     ],
     "image": "/images/moonshroom.png"
   },
   {
+    "id": "nebula-flower",
     "name": "Nebula Flower",
+    "nameKey": "item.nebula-flower",
     "specialEffect": "",
     "alchemyEffects": [
-      "Harvest",
-      "Windborne",
-      "Fall Absorber"
+      "harvest",
+      "windborn",
+      "fall-absorber"
     ],
     "image": "/images/nebula-flower.png"
   },
   {
+    "id": "nightflits-wing",
     "name": "Nightflit's Wing",
+    "nameKey": "item.nightflits-wing",
     "specialEffect": "",
     "alchemyEffects": [
-      "Windborne"
+      "windborn"
     ],
     "image": "/images/nightflits-wing.png"
   },
   {
+    "id": "oyster-mushroom",
     "name": "Oyster Mushroom",
+    "nameKey": "item.oyster-mushroom",
     "specialEffect": "",
     "alchemyEffects": [
-      "Diligence"
+      "diligence"
     ],
     "image": "/images/oyster-mushroom.png"
   },
   {
+    "id": "papaya",
     "name": "Papaya",
+    "nameKey": "item.papaya",
     "specialEffect": "",
     "alchemyEffects": [
-      "Last Chance",
-      "Purification",
-      "Light"
+      "last-chance",
+      "purification",
+      "light"
     ],
     "image": "/images/papaya.png"
   },
   {
+    "id": "pearl",
     "name": "Pearl",
+    "nameKey": "item.pearl",
     "specialEffect": "",
     "alchemyEffects": [
-      "Purification",
-      "Soft Hand"
+      "purification",
+      "soft-hand"
     ],
     "image": "/images/pearl.png"
   },
   {
+    "id": "philodendron",
     "name": "Philodendron",
+    "nameKey": "item.philodendron",
     "specialEffect": "",
     "alchemyEffects": [
-      "Levitation"
+      "levitation"
     ],
     "image": "/images/philodendron.png"
   },
   {
+    "id": "porcini",
     "name": "Porcini",
+    "nameKey": "item.porcini",
     "specialEffect": "Healing - Restores a total of 5 HP over 3s.",
+    "specialEffectKey": "item.porcini.specialEffect",
     "alchemyEffects": [
-      "Windborne"
+      "windborn"
     ],
     "image": "/images/porcini.png"
   },
   {
+    "id": "pumpkin",
     "name": "Pumpkin",
+    "nameKey": "item.pumpkin",
     "specialEffect": "",
     "alchemyEffects": [
-      "Stone Skin",
-      "Diligence"
+      "stone-skin",
+      "diligence"
     ],
     "image": "/images/pumpkin.png"
   },
   {
+    "id": "rats-tail",
     "name": "Rat's Tail",
+    "nameKey": "item.rats-tail",
     "specialEffect": "",
     "alchemyEffects": [
-      "Loot Luck"
+      "loot-luck"
     ],
     "image": "/images/rats-tail.png"
   },
   {
+    "id": "red-herb",
     "name": "Red Herb",
+    "nameKey": "item.red-herb",
     "specialEffect": "",
     "alchemyEffects": [
-      "Healing"
+      "healing"
     ],
     "image": "/images/red-herb.png"
   },
   {
+    "id": "resin",
     "name": "Resin",
+    "nameKey": "item.resin",
     "specialEffect": "",
     "alchemyEffects": [
-      "Healing"
+      "healing"
     ],
     "image": "/images/resin.png"
   },
   {
+    "id": "seagrape",
+    "name": "Seagrape",
+    "nameKey": "item.seagrape",
+    "specialEffect": "Poison - Deals 1 Poison Damage for 30s.",
+	"specialEffectKey": "item.seagrape.specialEffect",
+    "alchemyEffects": [
+      "electricity-resistance",
+      "ice-resistance",
+      "invisibility"
+    ],
+    "image": "/images/seagrape.png"
+  },
+  {
+    "id": "sicklevine",
     "name": "Sicklevine",
+    "nameKey": "item.sicklevine",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lethal Precision",
-      "Lockpicking"
+      "lethal-precision",
+      "lockpicking"
     ],
     "image": "/images/sicklevine.png"
   },
   {
+    "id": "snowdrop",
     "name": "Snowdrop",
+    "nameKey": "item.snowdrop",
     "specialEffect": "",
     "alchemyEffects": [
-      "Ice Resistance",
-      "Soft Hand"
+      "ice-resistance",
+      "soft-hand"
     ],
     "image": "/images/snowdrop.png"
   },
   {
+    "id": "spinejaw-egg",
     "name": "Spinejaw Egg",
+    "nameKey": "item.spinejaw-egg",
     "specialEffect": "",
     "alchemyEffects": [
-      "Stone Skin",
-      "Lethal Precision"
+      "stone-skin",
+      "lethal-precision"
     ],
     "image": "/images/spinejaw-egg.png"
   },
   {
+    "id": "spinejaw-feather",
     "name": "Spinejaw Feather",
+    "nameKey": "item.spinejaw-feather",
     "specialEffect": "",
     "alchemyEffects": [
-      "Swiftness",
-      "Fall Absorber"
+      "swiftness",
+      "fall-absorber"
     ],
     "image": "/images/spinejaw-feather.png"
   },
   {
+    "id": "spinejaw-leather",
     "name": "Spinejaw Leather",
+    "nameKey": "item.spinejaw-leather",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lethal Precision"
+      "lethal-precision"
     ],
     "image": "/images/spinejaw-leather.png"
   },
   {
+    "id": "spirit-crystal-dust",
     "name": "Spirit Crystal Dust",
+    "nameKey": "item.spirit-crystal-dust",
     "specialEffect": "",
     "alchemyEffects": [
-      "Last Chance",
-      "Invisibility"
+      "last-chance",
+      "invisibility"
     ],
     "image": "/images/spirit-crystal-dust.png"
   },
   {
+    "id": "sporecap",
     "name": "Sporecap",
+    "nameKey": "item.sporecap",
     "specialEffect": "",
     "alchemyEffects": [
-      "Poison Resistance",
-      "Tireless",
-      "Diligence"
+      "poison-resistance",
+      "tireless",
+      "diligence"
     ],
     "image": "/images/sporecap.png"
   },
   {
+    "id": "sulfur",
     "name": "Sulfur",
+    "nameKey": "item.sulfur",
     "specialEffect": "",
     "alchemyEffects": [
-      "Fire Resistance"
+      "fire-resistance"
     ],
     "image": "/images/sulfur.png"
   },
   {
+    "id": "sundews-stem",
     "name": "Sundew's Stem",
+    "nameKey": "item.sundews-stem",
     "specialEffect": "",
     "alchemyEffects": [
-      "Lethal Precision"
+      "lethal-precision"
     ],
     "image": "/images/sundews-stem.png"
   },
   {
+    "id": "swamfara",
     "name": "Swamfara",
+    "nameKey": "item.swamfara",
     "specialEffect": "",
     "alchemyEffects": [
-      "Windborne"
+      "windborn"
     ],
     "image": "/images/swamfara.png"
   },
   {
+    "id": "tangarine",
     "name": "Tangarine",
+    "nameKey": "item.tangarine",
     "specialEffect": "Healing - Restores a total of 8 HP over 3s.",
+    "specialEffectKey": "item.tangarine.specialEffect",
     "alchemyEffects": [
-      "Healing",
-      "Strength",
-      "Last Chance"
+      "healing",
+      "strength",
+      "last-chance"
     ],
     "image": "/images/tangarine.png"
   },
   {
-    "name": "The Lord's Crystal Bone",
+    "id": "tentshroom",
+    "name": "Tentshroom",
+    "nameKey": "item.tentshroom",
     "specialEffect": "",
     "alchemyEffects": [
-      "Strength",
-      "Tireless",
-      "Jump Booster"
+      "perception",
+      "electricity-resistance",
+      "tireless"
+    ],
+    "image": "/images/tentshroom.png"
+  },
+  {
+    "id": "the-lords-crystal-bone",
+    "name": "The Lord's Crystal Bone",
+    "nameKey": "item.the-lords-crystal-bone",
+    "specialEffect": "",
+    "alchemyEffects": [
+      "strength",
+      "tireless",
+      "jump-booster"
     ],
     "image": "/images/the-lords-crystal-bone.png"
   },
   {
+    "id": "toxic-mushroom",
     "name": "Toxic Mushroom",
+    "nameKey": "item.toxic-mushroom",
     "specialEffect": "Poison - Deals 1 poison damage for 45s.",
+    "specialEffectKey": "item.toxic-mushroom.specialEffect",
     "alchemyEffects": [
-      "Poison Resistance",
-      "Light"
+      "poison-resistance",
+      "light"
     ],
     "image": "/images/toxic-mushroom.png"
   },
   {
+    "id": "typha",
     "name": "Typha",
+    "nameKey": "item.typha",
     "specialEffect": "",
     "alchemyEffects": [
-      "Diligence"
+      "diligence"
     ],
     "image": "/images/typha.png"
   },
   {
+    "id": "typha-latifolia",
     "name": "Typha Latifolia",
+    "nameKey": "item.typha-latifolia",
     "specialEffect": "",
     "alchemyEffects": [
-      "Soft Hand"
+      "soft-hand"
     ],
     "image": "/images/typha-latifolia.png"
   },
   {
+    "id": "voidheart-orb",
     "name": "Voidheart Orb",
+    "nameKey": "item.voidheart-orb",
     "specialEffect": "",
     "alchemyEffects": [
-      "Last Chance",
-      "Levitation",
-      "Invisibility"
+      "last-chance",
+      "levitation",
+      "invisibility"
     ],
     "image": "/images/voidheart-orb.png"
   },
   {
+    "id": "white-baneberry",
     "name": "White Baneberry",
+    "nameKey": "item.white-baneberry",
     "specialEffect": "",
     "alchemyEffects": [
-      "Poison Resistance",
-      "Invisibility"
+      "poison-resistance",
+      "invisibility"
     ],
     "image": "/images/white-baneberry.png"
   },
   {
+    "id": "wildberry",
     "name": "Wildberry",
+    "nameKey": "item.wildberry",
     "specialEffect": "Poison - Deals 1 poison damage for 15s.",
+    "specialEffectKey": "item.wildberry.specialEffect",
     "alchemyEffects": [
-      "Jump Booster"
+      "jump-booster"
     ],
     "image": "/images/wildberry.png"
   }
